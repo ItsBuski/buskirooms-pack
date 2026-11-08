@@ -1,0 +1,13 @@
+name = "Buskirooms"
+author = "Buski"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "54bc29231d9028c216b166151e88f57e447d28bc04027a69cee047153685edea"
+
+[versions]
+minecraft = "26.1.2"
+neoforge = "26.1.2.122"

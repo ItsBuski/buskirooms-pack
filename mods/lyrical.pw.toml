@@ -1,0 +1,8 @@
+name = "Lyrical"
+filename = "lyrical-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/ItsBuski/buskirooms-pack/main/extra/lyrical-1.0.0.jar"
+hash-format = "sha512"
+hash = "6ea3536ac4a4a7d8df252e55200af5f03fdf19e82843e57c85d333eca1a7f91c590955543c0f6847d5da3d4aa675b8ee9f917e325663e4789a9c9f3a89aa42bf"

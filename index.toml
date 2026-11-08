@@ -1,0 +1,171 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alexs-mobs-continued.pw.toml"
+hash = "cbd0ad013b4be25f01b4a32343924293fc63bf87238b9716628e5906a5c697ff"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "465c5bb547d0b9f87b7573a64f09571d64d3ff43acf2e632f04bd0a6631faf77"
+metafile = true
+
+[[files]]
+file = "mods/armor-model-api.pw.toml"
+hash = "488e31f1edb29479c5ad5288a897ee05c0813a61bfc5f080f499ea5abf432c39"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "2797e01389385c0ea863f7eec99f89d117c8d2c7a9cf1d1e099a3c65481331cf"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a238287af46354f4a2c7db5e3bde75d2d700be831fbdd20c7afbedd555623f14"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "dc653c67bfffcba271ac1de8ed61844adfb9347b9b18dcef1b8b9613b8164f55"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "7c258846d69d70699d01ece8be13df4bfa70da6da9059eb1c653ade05b3ed7dd"
+metafile = true
+
+[[files]]
+file = "mods/codxlib.pw.toml"
+hash = "f8d1c3fcce700ef7429a0e02501b83c52b7ec5f845131ff831510e2171b32d2d"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "52f27d7c1acedaddd53f88038f83148230de4a37728bdd0e361c3d9505da7f2e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "cea38c4ac448ca70289d122ab38d854fb1966a4d37b1d871cb1f2a4bdd09ef39"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "3b5313857fea43af03526ccf14c74f5dfd1b2c3009663b8c30bb9505028b9cd6"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "cb6d8758b31594a79a47766c51d558a352465c6301fb8d0739fed1c6cf2af2f7"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "f2fc96ec53e31e65e9fa7c3d4bd91e025d624bf8c4ba573f56082972725f7e16"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "d68da8e40c309b414f008c816e8e73378a3c7180a469184e6ebd0beac653b332"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "5e3dea4ed877c0db59ead12343d60ce1c945979ee7bdc4c55b62a4815b55f396"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c8679fb2e8557214c8c04177712832443c69fa44b791a319c51f7eff39006e17"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "ca3c698fd85c4d6c467a146cd4a076bc82d79e6b83d640487cd1aa92ba448dec"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3eae18e93cc3362f1fd7841c899b0fb96a59d5247c9f5bccb72e8abd1b269193"
+metafile = true
+
+[[files]]
+file = "mods/lyrical.pw.toml"
+hash = "4a48134422f81e1800aa4324cc1dfc132255188cb7aaf6979608f132643098f2"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "eb3c570a21010cdf76a1bf0e23376b862f51d45063c94eea0c1488d0ed7ab2ee"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "db8f96d36cafb1064a62907697572b78fd0b7448457a9073e22df9c6df091ee8"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "1cb422fd1a59b51b64c3217886ef6b31580bf9deb4a6afcdf619ee82c83b4082"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "61b6ede716e04723e1cc9805a6cafe04d64d19f34b7fceacc967195b7058ec10"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "148b486d6b2ecd6079748ce388863706ada9093dc8892a8ad1ff4a8d8ca64a85"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "02d58286bb812b6db5d1954c4734b7d39816d05fe266d98e790f7173a590b73f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "28ac0a3f463db9b3e3809080dada7e757cbbbb99c75ac99be509ad4d5c4268fa"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "4005336ad7ee36d96fd9c60acffa297fd474119a57fcb86e337ab7b8735e255f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "484716f994222520df2133b8f4ec609c98cd30246988b00d347d5848d49ae36b"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "6cc1306414934a9f65b367a4f61ed8f4380572f9e1917c41bf4dddaf8a27524a"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "552756ab156c3f6f82b95b5b16a919b133ce9cf422a8e6991e4e65157d2e758f"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "5e91e5aea16a60450da6df9c5cdb056ae5f2d25967fcc8b16c7ccb3a7403b7c9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "205f4b510cda8a8f58d5f61b540dd1ecbdc988ac4cf0371876596715efc85f42"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "058a059eac4d0b4e38a799e8ec688c7ad7e009ce2b6ea7fa4a7d20585218dccf"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "d45bb720c5cba8d818b8b3992e06a244230ddc6513be292958b7093cbc9aa62b"
+metafile = true
